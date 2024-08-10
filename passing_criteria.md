@@ -1,5 +1,5 @@
 **Problem**<br>
-Display you are pass or fail 
+Display you are pass or fail<br>
 **List of Input**<br>
 Enter the number<br>
 **Method**
